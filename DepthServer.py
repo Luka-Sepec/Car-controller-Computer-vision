@@ -1,6 +1,3 @@
-# pip install depth-anything-v2 torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-# (use the cuda index if you have a GPU)
-
 from flask import Flask, request, jsonify
 import cv2
 import numpy as np

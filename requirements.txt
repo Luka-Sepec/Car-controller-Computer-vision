@@ -1,0 +1,17 @@
+flask
+numpy
+opencv-python
+pillow
+
+torch
+torchvision
+torchaudio
+
+transformers
+accelerate
+
+ultralytics
+
+timm
+einops
+scipy

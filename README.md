@@ -1,0 +1,1 @@
+pip install depth-anything-v2 torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
